@@ -81,7 +81,6 @@
     "wd:wordcount":490,
     "wof:belongsto":[
         85632493,
-        85681315,
         102191583,
         136253053
     ],
@@ -109,7 +108,7 @@
     "wof:id":890445253,
     "wof:lastmodified":1690849801,
     "wof:name":"Avatele",
-    "wof:parent_id":85681315,
+    "wof:parent_id":85632493,
     "wof:placetype":"locality",
     "wof:population":122,
     "wof:population_rank":1,
